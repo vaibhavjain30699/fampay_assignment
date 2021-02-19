@@ -3,8 +3,7 @@ This project is an assignment provided by the Fampay Team.
 This project shows the use of **Contextual Cards** which refers to any view which is rendered using the JSON API. These views are dynamic and their properties like images, color, texts, buttons (CTAs) etc. can be changed from backend at anytime. 
 
 ## Screenshots
-<img src="/Screenshot/Screenshot1.jpeg" width="300"/> <img src="/Screenshot/Screenshot2.jpeg" width="300"/>
-<img src="/Screenshot/Screenshot3.jpeg" width="300"/>
+<img src="/Screenshot/Screenshot1.jpeg" width="300"/> <img src="/Screenshot/Screenshot2.jpeg" width="300"/><img src="/Screenshot/Screenshot3.jpeg" width="300"/>
 
 
 ## Building The Code
@@ -17,6 +16,6 @@ This project shows the use of **Contextual Cards** which refers to any view whic
 
 
 ## Documentation
-Language : Java
-Android Studio Version : 4.1.2
-Libraries : Volley, RecyclerView, Material Components
+- Language : Java
+- Android Studio Version : 4.1.2
+- Libraries : Volley, RecyclerView, Material Components
