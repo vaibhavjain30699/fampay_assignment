@@ -5,7 +5,7 @@
     android:layout_height="100dp"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     app:cardCornerRadius="12dp"
-    app:cardBackgroundColor="#999999"
+    app:cardBackgroundColor="#EEEEEE"
     android:layout_margin="10dp"
     android:orientation="horizontal">
 
@@ -14,13 +14,14 @@
         android:layout_width="70dp"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="20dp"
+        android:layout_marginVertical="20dp"
+        android:layout_gravity="center|start"
         android:src="@drawable/ic_launcher_background"
-        android:background="@drawable/circular_border"
         />
 
     <TextView
         android:id="@+id/title_hc6"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:layout_gravity="center"/>
